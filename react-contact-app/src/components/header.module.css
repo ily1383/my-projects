@@ -1,0 +1,12 @@
+.container{
+    margin: 50px 0;
+    text-align: center;
+}
+.container h1{
+    color: #304ffe;
+    margin-bottom: 20px;
+}
+.container p{
+    color: grey;
+    font-weight: 500;
+}
